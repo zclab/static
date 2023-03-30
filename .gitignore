@@ -1,14 +1,3 @@
-.DS_Store
-.vscode
-.idea
-
-# ---------------------------------------------
-# Tool: .gitignore 生成器
-# URL: https://www.dute.org/gitignore
-# Powered By: 独特工具箱(dute.org)
-# ---------------------------------------------
-
-### Python.gitignore ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -139,7 +128,13 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# pytype static type analyzer
-.pytype/
+# Sphinx compiled assets
+node_modules
+.nodeenv
 
-### END .gitignore -----------------------------------------
+.DS_Store
+.vscode/
+.idea/
+
+scripts
+*.json
