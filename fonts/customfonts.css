@@ -3,7 +3,7 @@
     font-weight: 200;
     font-style: normal;
     font-display: swap;
-    src: url(http://zclab.net:66/fonts/LxgwWenKai-Lite/LXGWWenKaiLite-Light.ttf) format(truetype);
+    src: url(./LxgwWenKai-Lite/LXGWWenKaiLite-Light.ttf) format(truetype);
 }
 
 @font-face {
@@ -11,7 +11,7 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url(http://zclab.net:66/fonts/LxgwWenKai-Lite/LXGWWenKaiLite-Light.ttf) format(truetype);
+    src: url(./LxgwWenKai-Lite/LXGWWenKaiLite-Light.ttf) format(truetype);
 }
 
 @font-face {
@@ -19,7 +19,7 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url(http://zclab.net:66/fonts/LxgwWenKai-Lite/LXGWWenKaiLite-Regular.ttf) format(truetype);
+    src: url(./LxgwWenKai-Lite/LXGWWenKaiLite-Regular.ttf) format(truetype);
 }
 
 @font-face {
@@ -27,7 +27,7 @@
     font-weight: 500;
     font-style: normal;
     font-display: swap;
-    src: url(http://zclab.net:66/fonts/LxgwWenKai-Lite/LXGWWenKaiLite-Bold.ttf) format(truetype);
+    src: url(./LxgwWenKai-Lite/LXGWWenKaiLite-Bold.ttf) format(truetype);
 }
 
 @font-face {
@@ -35,5 +35,5 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-    src: url(http://zclab.net:66/fonts/LxgwWenKai-Lite/LXGWWenKaiLite-Bold.ttf) format(truetype);
+    src: url(./LxgwWenKai-Lite/LXGWWenKaiLite-Bold.ttf) format(truetype);
 }
